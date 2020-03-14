@@ -16,20 +16,20 @@ Education
 
 Work experience
 ======
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+# * Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git -->
 
 
 Skills
 ======
-<!-- * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+# * Skill 1
+# * Skill 2
+#   * Sub-skill 2.1
+#   * Sub-skill 2.2
+#   * Sub-skill 2.3
+# * Skill 3 -->
 
 Publications
 ======

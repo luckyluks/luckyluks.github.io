@@ -11,8 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics, University of Stuttgart, 2018
-* M.S. in Mechatronics, University of Stuttgart, (expected 2020)
+* **M.Sc. Double Degree Mechatronics with Systems, Control and Mechatronics**  
+University of Stuttgart (GER) and Chalmers University of Technology (SWE)  
+expected until September 2020
+* **B.Sc. Mechatronics**  
+University of Stuttgart (GER)  
+until September 2018
+* **Elementary and High School**  
+Stuttgart (GER)  
+until July 2014
 
 Work experience
 ======
+* **Jan 2020 - now: Master Thesis Student**  
+  at CEVT (China Euro Vehicle Technology AB)  
+  in Gothenburg, Sweden  
+* **Nov 2018 - Jul 2019: Student Research Assistant**  
+  at Fraunhofer IPA  
+  in Stuttgart, Germany  
+* **Mar 2018 - Sep 2018: Software Developement Intern**  
+  at Bosch Rexroth  
+  in Stuttgart, Germany  
+* **Nov 2016 - Feb 2018: Student Employee**  
+  at Daimler AG  
+  in Stuttgart, Germany  

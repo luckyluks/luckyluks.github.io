@@ -5,7 +5,7 @@ type: "Mini-Fair"
 permalink: /talks/2020-01-17-design-project-fair
 venue: "Chalmers University of Technology, Department of Electrical Engineering"
 date: 2020-01-17
-location: "Gothenburg, Sweden"
+location: "Chalmers University of Technology, Gothenburg, Sweden"
 ---
 Group presentation/demonstration of the final result in the course "<i>Design Project in MPSYS - Systems, Control and Mechatronics </i>" at a mini fair after 3 months of work.  
 

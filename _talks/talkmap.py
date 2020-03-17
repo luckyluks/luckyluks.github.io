@@ -9,23 +9,21 @@
 # geopy/Nominatim, and uses the getorg library to output data, HTML,
 # and Javascript for a standalone cluster map.
 #
-# Requires: glob, getorg, geopy
+# Requires: Path, getorg, geopy
 
-import glob
+from pathlib import Path
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("*.md")
-
-
-geocoder = Nominatim()
+geocoder = Nominatim(user_agent='github-generator')
 location_dict = {}
 location = ""
 permalink = ""
 title = ""
 
-
-for file in g:
+# check files for location tags
+for file in Path('_talks').glob('**/*.md'):
+    print(file)
     with open(file, 'r') as f:
         lines = f.read()
         if lines.find('location: "') > 1:
@@ -34,11 +32,10 @@ for file in g:
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
                             
-           
         location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
+        print("location: ", location, "\n", location_dict[location])
 
-
+# save locations
 m = getorg.orgmap.create_map_obj()
 getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
 

@@ -35,3 +35,15 @@ Work experience
 * **Nov 2016 - Feb 2018: Student Employee**  
   at Daimler AG  
   in Stuttgart, Germany  
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>

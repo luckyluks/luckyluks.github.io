@@ -36,14 +36,12 @@ Work experience
   at Daimler AG  
   in Stuttgart, Germany  
 
-Publications
-======
+# Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>

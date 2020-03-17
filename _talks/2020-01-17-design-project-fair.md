@@ -1,7 +1,7 @@
 ---
 title: "Presentation/demonstration of the final result"
 collection: talks
-type: "Fair"
+type: "Mini-Fair"
 permalink: /talks/2020-01-17-design-project-fair
 venue: "Chalmers University of Technology, Department of Electrical Engineering"
 date: 2020-01-17

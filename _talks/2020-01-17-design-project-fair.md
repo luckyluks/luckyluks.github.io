@@ -1,7 +1,7 @@
 ---
 title: "Presentation/demonstration of the final result"
 collection: talks
-type: "Talk"
+type: "Fair"
 permalink: /talks/2020-01-17-design-project-fair
 venue: "Chalmers University of Technology, Department of Electrical Engineering"
 date: 2020-01-17
@@ -17,4 +17,3 @@ We presented our live demo of a drivable surface detection with our trained mode
 | Link to the final pape | [Final report](https://github.com/luckyluks/DP-SurfaceDetection/blob/master/submissions/Final_Report.pdf) |
 | Link to the fair poster | [Poster](https://github.com/luckyluks/DP-SurfaceDetection/blob/master/submissions/Poster.pdf) |
 | Link to the video with potential drawbacks | [Video](https://github.com/luckyluks/DP-SurfaceDetection/blob/master/recordings/test_video_with_potential_problems.mp4) |
-|   |   |

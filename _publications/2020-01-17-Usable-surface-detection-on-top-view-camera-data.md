@@ -13,7 +13,7 @@ dynamic obstacles.'
 date: 2020-01-17
 venue: 'None'
 paperurl: 'https://luckyluks.github.io/files/2020-01-17_Usable-surface-detection-on-top-view-camera-data.pdf'
-citation: 'Rauh, Lukas. (2020). <i>Usable surface detection on top-view camera data.</i> (MPSYS Design projects 2019/2020, Chalmers University of Technology, Gotheburg, Sweden)'
+#citation: 'Rauh, Lukas. (2020). <i>Usable surface detection on top-view camera data.</i> (MPSYS Design projects 2019/2020, Chalmers University of Technology, Gotheburg, Sweden)'
 
 ---
 This project aimed to solve the problem to detect drivable

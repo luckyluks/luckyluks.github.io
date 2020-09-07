@@ -23,7 +23,7 @@ until July 2014
 
 Work experience
 ======
-* **Jan 2020 - now: Master Thesis Student**  
+* **Jan 2020 - Jul 2020: Master Thesis Student**  
   at CEVT (China Euro Vehicle Technology AB)  
   in Gothenburg, Sweden  
 * **Nov 2018 - Jul 2019: Student Research Assistant**  

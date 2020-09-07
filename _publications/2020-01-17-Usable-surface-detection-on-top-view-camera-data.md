@@ -16,6 +16,9 @@ paperurl: 'https://luckyluks.github.io/files/2020-01-17_Usable-surface-detection
 #citation: 'Rauh, Lukas. (2020). <i>Usable surface detection on top-view camera data.</i> (MPSYS Design projects 2019/2020, Chalmers University of Technology, Gotheburg, Sweden)'
 
 ---
+
+## Group Project in Systems, Control and Mechatronics
+
 This project aimed to solve the problem to detect drivable
 areas of a factory floor, using a workflow consisting
 of background subtraction to generate a ground truth, that is
@@ -25,14 +28,15 @@ be used as a mapping for which a scheduler or robot control
 system could work upon to avoid collisions and problems with
 dynamic obstacles.
 
-Publication: [Download the final publication here!](https://luckyluks.github.io/files/2020-01-17_Usable-surface-detection-on-top-view-camera-data.pdf)  
-Presentation/Demonstration: [Link to the corresponding presentation](https://luckyluks.github.io/talks/2020-01-17-design-project-fair)
-
-Recommended citation:  
-Rauh, Lukas. (2020). <i>Usable surface detection on top-view camera data.</i> (MPSYS Design projects 2019/2020, Chalmers University of Technology, Gotheburg, Sweden)
-
 | Content for this publication | Link |
 |---|---|
 | Link to the final paper | [Final report](https://github.com/luckyluks/DP-SurfaceDetection/blob/master/submissions/Final_Report.pdf) |
 | Link to the fair poster | [Poster](https://github.com/luckyluks/DP-SurfaceDetection/blob/master/submissions/Poster.pdf) |
 | Link to the video with potential drawbacks | [Video](https://github.com/luckyluks/DP-SurfaceDetection/blob/master/recordings/test_video_with_potential_problems.mp4) |
+
+**Technologies used:** Intel Realsense Camera, OpenCV, GrabCut, PyTorch  
+**Publication:** [Download the final publication here!](https://luckyluks.github.io/files/2020-01-17_Usable-surface-detection-on-top-view-camera-data.pdf)  
+**Presentation/Demonstration:** [Link to the corresponding presentation](https://luckyluks.github.io/talks/2020-01-17-design-project-fair)
+
+**Recommended citation:**  
+Rauh, Lukas. (2020). <i>Usable surface detection on top-view camera data.</i> (MPSYS Design projects 2019/2020, Chalmers University of Technology, Gotheburg, Sweden)

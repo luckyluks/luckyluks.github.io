@@ -9,7 +9,7 @@ venue: 'None'
 # citation: 'Rauh, Lukas. (2020). <i>Data-Driven Modelling for Health Estimation of High-Voltage Battery Systems </i>(Master Thesis, Chalmers University of Technology, Gothenburg, Sweden) Retrieved from https://hdl.handle.net/20.500.12380/301548'
 
 ---
-# Bachelor Thesis in Mechatronics
+## Bachelor Thesis in Mechatronics
 
 An app orientation, with apps for personalised expansion of the functionality of smartphones, is a successful concept in the consumer sector. In principle, this concept can also be transferred to machine tools, whereby the term value-added service is often used here. In the iWindow research project, such value-added services are used and, installed subsequently, extend the augmented reality machine window with additional functionalities. The container technology Docker is used, which encapsulates the value-added services with all dependencies in so-called images, similar to an app of a smartphone. Up to now, however, installation has only been possible by hand.  
 
